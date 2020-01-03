@@ -1,1 +1,6 @@
 # adb-virus
+Here you find that Script that you need to prank your friends with adb
+Just connect their device with your Computer turn on ADB on the target Device and let it go!!
+
+Oh yeah, but you have to use Linux...
+Maybe I code Scripts for Windows but I don't know right now...
